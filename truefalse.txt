@@ -1,0 +1,63 @@
+31
+1 It takes two memory locations (16 bits each) to store an address in the 8085 system.
+true
+2 A compiler is a translation program that converts high-level instructions into a set of binary instructions (machine code) for execution.
+false
+3 The control bus and memories share a bidirectional bus in a typical microprocessor system.
+true
+4 The language understood by the microprocessor is called assembly language.
+false
+5 A machine cycle is the time it takes a microprocessor to fetch and execute a complete instruction.
+true
+6 An address bus is also called a unidirectional bus.
+false
+7 A coprocessor is a microprocessor designed with a limited instruction set optimized to perform arithmetic operations very quickly.
+true
+8 To keep the number of IC pins to a minimum, the 8085 uses a multiplexed bus.
+false
+9 Machine language is independent of the type of microprocessor in a computer system.
+true
+10 A mnemonic is an English-like instruction that is converted by an assembler into a machine code for use by a processor.
+false
+11 Freeware is software that is available for use at no monetary cost.
+false
+12 IPv6 Internet Protocol address is represented as eight groups of four Octal digits.
+true
+13 The hexadecimal number system contains digits from.
+true 
+14 Octal number system contains digits from 0 - 7.
+false
+15 MS Word is a hardware.
+true
+16 CPU controls only input data of computer. 
+true
+17 CPU stands for Central Performance Unit.
+false
+18 The Language that the computer can understand is called Machine Language.
+false
+19 Magnetic Tape used random access method.
+true
+20 Twitter is an online social networking and blogging service.
+true
+21 Worms and trojan horses are easily detected and eliminated by antivirus software.
+false
+22 Dot-matrix, Deskjet, Inkjet and Laser are all types of Printers.
+true
+23 GNU / Linux is a open source operating system.
+true
+24 You cannot format text in an e-mail message.
+true
+25 You must include a subject in any mail message you compose.
+false
+26 If you want to respond to the sender of a message, click the Respond button.
+false
+27 You type the body of a reply the same way you would type the body of a new message.
+true
+28 When you reply to a message, you need to enter the text in the Subject.
+true
+29 You can only print one copy of a selected message.
+true
+30 You cannot preview a message before you print it.
+false
+31 There is only one way to print a message.
+true

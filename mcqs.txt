@@ -1,0 +1,187 @@
+31
+1 Name of the screen that recognizes touch input is:
+A.Recog screen
+B.Point Screen
+C.Touch Screen
+D.Android Screen
+A
+2 Identify the device through which data and instructions are entered into a computer:
+A.Software
+B.Output device
+C.Input device
+D.Memory
+B
+3 Computer Moniter is also known as :
+A.DVU
+B.UVD
+C.VDU
+D.CCTV
+C
+4 Arrange in ascending order the units of memory TB, KB, GB, MB
+A.TB>MB>GB>KB
+B.MB>GB>TB>KB
+C.TB>GB>MB>KB
+D.GB>MB>KB>TB
+D
+5 Which one of these stores more data than a DVD ?
+A.CD Rom
+B.Floppy
+C.Blue Ray Disk
+D.Red Ray Disk
+A
+6 The output shown on the computer monitor is called
+A.VDU
+B.Hard Copy
+C.Soft Copy
+D.Screen Copy
+B
+7 Eight Bits make up a
+A.byte
+B.megabyte
+C.kilobyte
+D.None
+C
+8 Which one is the result of the output given by a computer
+A.Data
+B.Istruction
+C.Information
+D.Excursion
+D
+9 Which one of these also known as read/write memory ?
+A.ROM
+B.RAM
+C.DVD
+D.Hard Disk
+A
+10 The printed output from a computer is called
+A.Copy
+B.Soft Copy
+C.Hard Copy
+D.Paper
+B
+11 Which software is not an file compression utility ?
+A.7-zip
+B.Win Rar
+C.Win Zip
+D.Compres
+C
+12 From where we can change the name of an User Account ?
+A.Settings
+B.Computer Name
+C.Code Panel
+D.Control Panel
+D
+13 In which situation running applications of an user account remains active ?
+A.When we Log Off
+B.When we Switch User
+C.When we Shut Down
+D.When We Reboot
+A
+14 How can we bring 'My Computer' icon on the desktop if it is not there ?
+A.From Wallpaper
+B.From Settings
+C.From Display Properties
+D.From Explorer
+B
+15 In a PowerPoint Presentation Animation can be repeated how many times
+A.2 to 5
+B.1 to 5
+C.2 to 10
+D.1 to 20
+C
+16 Which one is an example of spreadsheet software ?
+A.MS Excel
+B.MS Word
+C.MS Access
+D.MS PowerPoint
+D
+17 Internet Explorer is used for :
+A.Viewing Movie
+B.Listning Music
+C.Viewing Web Pages
+D.Drawing
+A
+18 The extension of a text file (i.e Notepad file) is :
+A..text
+B..tet
+C..txt
+D..tft
+B
+19 Which software can be used for giving presentation (e.g. product demo) ?
+A.MS Word
+B.MS Excel
+C.MS PowerPoint
+D.MS Access
+C
+20 The Process of erasing a disk is called :
+A.Wiping
+B.Formatting
+C.Cleaning
+D.Defragmenting
+A
+21 Which effect we see as the slides of a PowerPoint Changes over
+A.Animation
+B.Timing
+C.Effect
+D.Transit
+B
+22 Which one is not an Image Editing software ?
+A.Photo Shop
+B.MS PowerPoint
+C.Corel Draw
+D.MS Paint
+C
+23 A window can have ______ states
+A.1
+B.2
+C.3
+D.4
+D
+24 Which one is not an Image file ?
+A..bmp
+B..png
+C..wmv
+D..jpg
+A
+25 How many scrollbars does a window have in general ?
+A.1
+B.2
+C.3
+D.4
+B
+26 Which one is an example of database designing software ?
+A.MS Excel
+B.MS Word
+C.MS Access
+D.MS PowerPoint
+D
+27 Notepad is used for :
+A.Text
+B.Image
+C.Both Text and Image
+D.None of these
+A
+28 Which one can be used for creating a document (e.g. Annual Report) ?
+A.MS Excel
+B.MS Word
+C.MS PowerPoint
+D.MS Windows
+D
+29 Which one is an example of Word Processing software ?
+A.MS Excel
+B.MS Word
+C.MS Access
+D.MS PowerPoint
+A
+30 Which feature is used to make selected sentence to All Captital Letters or All Small Letters ?
+A.Change Letter
+B.Change Sentence
+C.Change Case
+D.Change Word
+C
+31 Which of these software applications was not part of the first version of Microsoft Office?
+A.Paint
+B.PowerPoint
+C.Outlook
+D.MS Word
+B

@@ -1,0 +1,63 @@
+﻿31
+1 A register in the microprocessor that keeps track of the answer or results of any arithmetic or logic operation is the _________.
+accumulator
+2 The __________ program is used to convert mnemonic code to machine code.
+assembler
+3 A(n) ________________ is the time it takes a microprocessor to fetch and execute a complete instruction.
+instruction-cycle
+4 The ________ is the "brains" of every microcomputer.
+cpu
+5 The circuits in the 8085 that provide the arithmetic and logic functions are called the __________.
+alu
+6 Since microprocessor CPUs do not understand mnemonics as they are, they have to be converted into __________.
+hexadecimal-machine-code
+7 A program that contains nothing but strings of zeros and ones is called a(n) ________.
+machine-language-program
+8 The register in the 8085 microprocessor that is used to keep track of the memory address of the next opcode to be run in the program is the ________.
+program-counter
+9 All computer programs for a machine are called ________.
+software
+10 The first part of a machine language instruction that specifies the operation to be performed is called a(n) __________.
+opcode
+11 Computers can do many different jobs because they can be __________.
+programmable
+12 The job of the __________ is to fetch instructions, carry out the operations commanded by the instructions, and produce some outcome or resultant information.
+cpu
+13 Internally, the CPU consists of the __________ and the __________.
+control-unit
+14 A(n) __________ is an example of a secondary storage device.
+disk
+15 The two general categories of software are __________ and __________.
+systems-software
+16 A program is a set of __________.
+instructions
+17 Since computers can’t be programmed in natural human language, algorithms must be written in a(n) __________ language.
+machine-language
+18 _________ is the only language computers really process.
+low-level-language
+19 _________ languages are close to the level of humans in terms of readability.
+high-level
+20 _________ languages are close to the level of the computer.
+low-level
+21 A program’s ability to run on several different types of computer systems is called __________.
+portability
+22 Words that have special meaning in a programming language are called __________.
+key-words
+23 Words or names defined by the programmer are called __________.
+vraiables
+24 _________ are characters or symbols that perform operations on one or more operands.
+operators
+25 _________ characters or symbols mark the beginning or ending of programming statements, or separate items in a list.
+punctuation
+26 The rules that must be followed when constructing a program are called __________.
+syntax
+27 A(n) __________ is a named storage location.
+varaiable
+28 A variable must be __________ before it can be used in a program.
+defined
+29 _________ is information a program gathers from the outside world.
+input
+30 _________ is information a program sends to the outside world.
+output
+31 A(n) __________ is a diagram that graphically illustrates the structure of a program.
+flowchart
