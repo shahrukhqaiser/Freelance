@@ -1,1 +1,1 @@
-
+This was my first semester project. I created an application simimlar to akinator. You are asked a series of questions after which the program correctly guesses the person you were thinking of. For now, it has only data of the people at my university.
