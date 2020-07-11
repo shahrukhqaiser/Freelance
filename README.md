@@ -1,2 +1,2 @@
-# Freelance
-Projects which I have completed as a freelancer.Read the project 6 in the SemesterProject.pdf to find the project details.
+# Freelance1
+Open the SemesterProject.pdf and go to Project 6 to have a basic overview and understanding of the project.
