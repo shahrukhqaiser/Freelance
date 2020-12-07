@@ -1,0 +1,15 @@
+Player has 4 functionalities:
+
+
+	calculateScore functions simply stores the data of all the games 
+	bookMatch is used to books matches
+	payFee is used to pay fees
+	updateDetails updates playerName
+
+Tennis has 8 functionalities:
+
+	addPlayer adds a player 
+        removePlayer is used to remove any player from our data
+        setCurrentPlayer sets sets the current Player for whom the data will be manipulated 
+   	printLatestScores and printPreviousScores are used to print scores of the user
+        There are three menu functions namely Menu, managementMenu and playerMenu.

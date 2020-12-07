@@ -1,0 +1,17 @@
+
+1)Author Name:
+
+HeaderFiles:Data.h,userInterface.h,Reports.h
+Source Files:Data.c,userInterface.c,Reports.c, main.c
+
+
+2)Compilation and Launching Instructions:
+
+Open the terminal and type make. This would compile the program. After this type the command, ./main.out to run the program.
+A menu will be displayed. Kindly, input the number corresponding to your desired report in order to view it.
+
+3)Description of New Reports
+
+Report4- This report asks the user for the name of the country and then shows the statistics of that country for total number of bachelor graduates, master graduates and doctorates and their percentages in all the years/
+
+Report 5- This report shows the top 5 most countries for having the most number of doctorates.
